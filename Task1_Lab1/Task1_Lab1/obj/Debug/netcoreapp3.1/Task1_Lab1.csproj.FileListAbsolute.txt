@@ -1,0 +1,16 @@
+C:\Users\eplanov.41011\Desktop\Task1_Lab1\Task1_Lab1\bin\Debug\netcoreapp3.1\Task1_Lab1.exe
+C:\Users\eplanov.41011\Desktop\Task1_Lab1\Task1_Lab1\bin\Debug\netcoreapp3.1\Task1_Lab1.deps.json
+C:\Users\eplanov.41011\Desktop\Task1_Lab1\Task1_Lab1\bin\Debug\netcoreapp3.1\Task1_Lab1.runtimeconfig.json
+C:\Users\eplanov.41011\Desktop\Task1_Lab1\Task1_Lab1\bin\Debug\netcoreapp3.1\Task1_Lab1.runtimeconfig.dev.json
+C:\Users\eplanov.41011\Desktop\Task1_Lab1\Task1_Lab1\bin\Debug\netcoreapp3.1\Task1_Lab1.dll
+C:\Users\eplanov.41011\Desktop\Task1_Lab1\Task1_Lab1\bin\Debug\netcoreapp3.1\Task1_Lab1.pdb
+C:\Users\eplanov.41011\Desktop\Task1_Lab1\Task1_Lab1\obj\Debug\netcoreapp3.1\Task1_Lab1.csproj.AssemblyReference.cache
+C:\Users\eplanov.41011\Desktop\Task1_Lab1\Task1_Lab1\obj\Debug\netcoreapp3.1\Task1_Lab1.Form1.resources
+C:\Users\eplanov.41011\Desktop\Task1_Lab1\Task1_Lab1\obj\Debug\netcoreapp3.1\Task1_Lab1.csproj.GenerateResource.cache
+C:\Users\eplanov.41011\Desktop\Task1_Lab1\Task1_Lab1\obj\Debug\netcoreapp3.1\Task1_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eplanov.41011\Desktop\Task1_Lab1\Task1_Lab1\obj\Debug\netcoreapp3.1\Task1_Lab1.AssemblyInfoInputs.cache
+C:\Users\eplanov.41011\Desktop\Task1_Lab1\Task1_Lab1\obj\Debug\netcoreapp3.1\Task1_Lab1.AssemblyInfo.cs
+C:\Users\eplanov.41011\Desktop\Task1_Lab1\Task1_Lab1\obj\Debug\netcoreapp3.1\Task1_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\eplanov.41011\Desktop\Task1_Lab1\Task1_Lab1\obj\Debug\netcoreapp3.1\Task1_Lab1.dll
+C:\Users\eplanov.41011\Desktop\Task1_Lab1\Task1_Lab1\obj\Debug\netcoreapp3.1\Task1_Lab1.pdb
+C:\Users\eplanov.41011\Desktop\Task1_Lab1\Task1_Lab1\obj\Debug\netcoreapp3.1\Task1_Lab1.genruntimeconfig.cache
